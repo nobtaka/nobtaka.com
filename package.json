@@ -1,0 +1,19 @@
+{
+  "name": "nobtaka.com",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-regarde": "latest",
+    "grunt-contrib-jasmine": "latest",
+    "grunt-contrib-livereload": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-jade": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-notify": "latest",
+    "grunt-bower-concat": "latest"
+  }
+}
